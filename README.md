@@ -1,4 +1,4 @@
-# lcv
+# virtual-cricket-tournament-simulator
 
 <ul style = "list-style-type:square">
   <li><strong>A web application built on Django framework using python for backend and Html, CSS, JavaScript for frontend</strong></li>
